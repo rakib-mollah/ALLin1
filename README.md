@@ -18,9 +18,6 @@ A quick, curated map of open-source tools you can use to customize and optimize 
 - **poloclub/Fine-tuning-LLMs** — Colab-friendly tutorial for fine-tuning open-source LLMs (e.g., Llama-2) with QLoRA.  
   https://github.com/poloclub/Fine-tuning-LLMs
 
-- **tsmatz/finetune_llm_with_lora** — LoRA from scratch in Jupyter notebooks; walk-throughs for OPT/GPT-2 and more.  
-  https://github.com/tsmatz/finetune_llm_with_lora
-
 - **georgian-io/LLM-Finetuning-Toolkit** — Config-driven CLI that launches and tracks experiments via YAML pipelines.  
   https://github.com/georgian-io/LLM-Finetuning-Toolkit
 
