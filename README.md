@@ -19,7 +19,9 @@ You’ll find starter tutorials and production-grade libraries across four bucke
 - 🤖 [poloclub/Fine-tuning-LLMs](https://github.com/poloclub/Fine-tuning-LLMs) — Colab-friendly tutorial for fine-tuning open-source LLMs with QLoRA.  
 - 🧰 [georgian-io/LLM-Finetuning-Toolkit](https://github.com/georgian-io/LLM-Finetuning-Toolkit) — Config-driven CLI with YAML pipelines for experiment tracking.  
 - 📘 [dvgodoy/FineTuningLLMs](https://github.com/dvgodoy/FineTuningLLMs) — Companion code to a practical guidebook; includes quantization, LoRA, and dataset prep.  
-- 🏗️ [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) — End-to-end fine-tuning and serving for LLaMA-family models.  
+- 🏗️ [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) — End-to-end fine-tuning and serving for LLaMA-family models.
+- 🐶 [lightonai/pylate](https://github.com/lightonai/pylate) — Late-interaction (ColBERT) training, indexing, retrieval, and reranking, with Sentence-Transformers under the hood.
+
 
 ---
 
