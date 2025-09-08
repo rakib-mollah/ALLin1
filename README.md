@@ -120,8 +120,6 @@ A quick, curated map of open-source tools you can use to customize and optimize 
 - **Nicolas-BZRD/llm-recipes** — Mixed bag of fine-tuning, KD, and eval recipes worth browsing.  
   https://github.com/Nicolas-BZRD/llm-recipes
 
-- **🔎 Topic search** — Explore the wider space via GitHub topic aggregations.  
-  https://github.com/topics/distillation-model?o=desc&s=forks
 
 ---
 
